@@ -21,7 +21,7 @@ class Student:
 
 
 class Exam:
-    """An exam for a course, with a maximum mark."""
+    """An exam for a course, with a maximum mark.""
 
     def __init__(self, exam_id, course, max_marks=100):
         self.exam_id = exam_id
